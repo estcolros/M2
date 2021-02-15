@@ -4,8 +4,8 @@
 
 | Developer | Rama | Rol | Fecha Incorporación | Proyecto | Versión |
 | --- | :---:  | :---:  | :---:  | :---: | :---:  |
-| Estefania Colombo | Master / Dev2 | Project Manager  | 15/02/2021 |   |   1.0|
-| Marc Cuenca | Master / Dev1 | Developer 2 | 15/02/2021 |   |   1.0|
+| Estefania Colombo Rosario| Master / Dev1 | Project Manager  | 15/02/2021 |   |   1.0|
+| Marc Cuenca | Master / Dev2 | Developer 2 | 15/02/2021 |   |   1.0|
 | Mathias Debrun | Master / Dev3 | Developer 3| 15/02/2021 |   |   1.0|
 
 
